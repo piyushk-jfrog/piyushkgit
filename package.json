@@ -1,13 +1,6 @@
 {
-  "name": "test-basewareui",
+  "name": "clean-test-project",
   "version": "1.0.0",
-  "description": "Test repo for attribution export",
-  "dependencies": {
-    "@angular-devkit/architect": "0.1802.20",
-    "@angular-devkit/build-angular": "18.2.20",
-    "@angular-devkit/build-webpack": "0.1802.20",
-    "@angular-devkit/core": "18.2.20",
-    "@angular-devkit/schematics": "18.2.20",
-    "@ampproject/remapping": "2.3.0"
-  }
+  "description": "A project with no vulnerable dependencies",
+  "dependencies": {}
 }
