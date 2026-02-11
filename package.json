@@ -1,6 +1,0 @@
-{
-  "name": "clean-test-project",
-  "version": "1.0.0",
-  "description": "A project with no vulnerable dependencies",
-  "dependencies": {}
-}
